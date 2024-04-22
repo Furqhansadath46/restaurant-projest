@@ -1,0 +1,68 @@
+{
+    "breakFast": [
+        {
+        "title": "Honey Sandwitch",
+        "price":"120",
+        "src":"/image/breakfast.jpg"
+        },
+        {
+        "title": "Egg with Bread Sandwitch",
+        "price":"80",
+        "src":"/image/breakfast2.jpg"
+        },
+        {
+        "title": "BreadJam",
+        "price":"110",
+        "src":"/image/breakfast3.jpg"
+        },
+        {
+        "title": "Oats with Strawberry",
+        "price":"140",
+        "src":"/image/breakfast4.jpg"
+        }
+    ],
+    "lunch": [
+        {
+        "title": "Pasta",
+        "price":"100",
+        "src":"/image/lunch1.jpg"
+        },
+        {
+        "title": "Chicken Rice",
+        "price":"50",
+        "src":"/image/lunch2.jpg"
+        },
+        {
+        "title": "Vegetable Salad With Egg",
+        "price":"70",
+        "src":"/image/lunch3.jpg"
+        },
+        {
+        "title": "White Rice",
+        "price":"65",
+        "src":"/image/lunch4.jpg"
+        }
+    ],
+    "dinner": [
+        {
+        "title": "Pepperoni Pizza",
+        "price":"50",
+        "src":"/image/menu-7.jpg"
+        },
+        {
+        "title": "Chicken Pizza",
+        "price":"95",
+        "src":"/image/menu-3.jpg"
+        },
+        {
+        "title": "FrenchFries with Chicken",
+        "price":"90",
+        "src":"/image/menu-6.jpg"
+        },
+        {
+        "title": "Chicken Grill",
+        "price":"130",
+        "src":"/image/menu-4.jpg"
+        }
+    ]
+}
